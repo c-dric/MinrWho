@@ -1,4 +1,4 @@
-package org.minr.MinrLog;
+package org.minr.MinrWho;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -8,7 +8,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class Log extends JavaPlugin {
+public class Who extends JavaPlugin {
 	/**
 	 * The default minecraft log
 	 */
