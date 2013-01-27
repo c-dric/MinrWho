@@ -1,7 +1,5 @@
-name: MinrLog
-main: org.minr.MinrLog.Log
+name: MinrWho
+main: org.minr.MinrWho.Who
 version: 1.0
-commands:
-   log:
-      description: Write an entry to the log
-      usage: /<command> [message]
+author: c_dric
+

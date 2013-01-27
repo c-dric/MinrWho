@@ -1,5 +1,5 @@
-name: LogCommand
-main: org.minr.logcommand.LogCommand
+name: MinrLog
+main: org.minr.MinrLog.Log
 version: 1.0
 commands:
    log:
