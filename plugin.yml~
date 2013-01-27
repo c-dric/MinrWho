@@ -1,7 +1,0 @@
-name: MinrLog
-main: org.minr.MinrLog.Log
-version: 1.0
-commands:
-   log:
-      description: Write an entry to the log
-      usage: /<command> [message]
