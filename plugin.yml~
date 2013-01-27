@@ -1,0 +1,7 @@
+name: LogCommand
+main: org.minr.logcommand.LogCommand
+version: 1.0
+commands:
+   log:
+      description: Write an entry to the log
+      usage: /<command> [message]
